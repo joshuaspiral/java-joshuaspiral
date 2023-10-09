@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Hello {
+public class Hello2 {
   public static void main(String[] args) {
     Scanner kb = new Scanner(System.in);
-    double celsius = kb.nextDouble();
-    System.out.println(celsius * 9 / 5 + 32);
+    String name = kb.nextLine();
+    System.out.print("Hello, " + name + "!");
   }
 }

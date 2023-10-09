@@ -1,12 +1,9 @@
 import java.util.Scanner;
 
-public class Hello {
+public class Numbers2 {
   public static void main(String[] args) {
     Scanner kb = new Scanner(System.in);
     int num = kb.nextInt();
-    int a = num / 100;
-    int b = (num / 10) % 10;
-    int c = (num % 10);
-    System.out.println(a + b + c);
+    System.out.println((num / 100) % 10);
   }
 }

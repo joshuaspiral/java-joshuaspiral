@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank/BankExample.iml" filepath="$PROJECT_DIR$/Bank/BankExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryExample/LibraryExample.iml" filepath="$PROJECT_DIR$/LibraryExample/LibraryExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-joshuaspiral.iml" filepath="$PROJECT_DIR$/java-joshuaspiral.iml" />
+    </modules>
+  </component>
+</project>
